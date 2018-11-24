@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\SetupLocalPlayer.cs" />
     <Compile Include="Assets\SmoothCameraFollow.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Shawn/UnityNetworking/NetworkingUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
