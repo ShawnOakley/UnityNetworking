@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CameraFollow360.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\SetupLocalPlayer.cs" />
     <Compile Include="Assets\SmoothCameraFollow.cs" />
